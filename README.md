@@ -1,7 +1,7 @@
 # door-access
 
-
-
+Project details:
+A Raspberry Pi-powered RFID access system. It is designed to read a badge, compare it to a list of list of users, and allow access if it finds a match.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~Components~~~~~~~~~~~~~~~~~~
@@ -16,3 +16,6 @@ Power supply: Rexon AC-005 (outputs +12V at 1.5A and +5V at 1.5A)
 =Current version:
 5V Relay: OJE-SS-105DM (datasheet is in the git)
 Transistor for switching on relay: TIP 120 (datasheet is in the git)
+
+
+
